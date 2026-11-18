@@ -1,0 +1,24 @@
+TIMI / MILES — FOURTHWALL LAUNCH HANDOFF (REVISION 2)
+
+Athena update | November 17, 2026
+
+THE DECISION: Fourthwall Free is the storefront. Launch with Dam Crew, Timi Sunshine and Camino.
+
+WHAT CHANGED FROM THE PREVIOUS PACK
+- Sustainability is no longer a launch goal or requirement. Recycled/organic fiber and packaging sourcing are deferred until after launch, only if Timi wishes to revisit them.
+- Removed sustainability survey questions, sourcing research and tomorrow's material tradeoff decisions.
+- Opening products will be selected for exact artwork, comfort, quality, reasonable total cost, and Fourthwall's on-demand production/fulfillment.
+- Proposed opening lineup: Dam Crew hoodie; Sunshine tee and mug; Camino printed tote. The bracelet remains a separate maker/sample project, not a launch dependency.
+- Exact products/SKUs, sample totals, margins and live shop status remain to be verified; none is represented as purchased or published.
+
+IMPORTANT FILES
+- ATHENA-TO-MILES-START-HERE.md — full CTO handoff and next actions
+- SURVEY-READY-TO-BUILD.md — revised survey with no sustainability questions
+- TOMORROW-WITH-TIMI.md — gentle meeting checklist
+- Store-Execution-Plan.md — pre-existing plan with updated launch scope
+- Sample-Approval-Worksheet.md — quote/sample/approval worksheet
+- Shipping-Returns-Support-DRAFT.md — unapproved draft policy
+- Camino-Maker-Inquiry-DRAFT.txt — bracelet maker questions, for later
+- References/ — the three source design reference images
+
+NO spending, paid subscriptions, public shop listings, samples, MOQ commitments or banking/tax collection in chat without Timi's explicit permission.
