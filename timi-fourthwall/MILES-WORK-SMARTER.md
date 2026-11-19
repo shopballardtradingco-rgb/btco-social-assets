@@ -31,13 +31,14 @@ This is not a software-engineering build. It is a small, pleasant, made-to-order
 
 "Good morning! We're using Fourthwall, so you don't need to pack or ship the products made through its catalog. Your three collections are our priority. I have a simple customer survey and a short sample lineup ready to discuss. We'll start with the fun part: which design do you want to see on a product first?"
 
-## GitHub workflow for the two assistants
+## GitHub workflow for the two assistants — updated November 18
 
-- **GitHub is a read-only reference for Miles and Timi**, not their submission inbox. Never create, edit, or delete repository files, issues, issue comments, pull requests, commits, or settings; do not attempt any alternate write route.
-- Always start with the [Fourthwall README](README.md) and [GitHub made simple guide](GITHUB-SHARING-FOR-TIMI-AND-MILES.md). The approved documents are the current reference; a chat draft is not an update.
-- Miles and Timi develop drafts in their own ChatGPT conversations and share a **single concise handoff** through the shared ChatGPT Project (or another Tim-approved private discussion channel). Until that channel is available, Miles prepares one paste-ready handoff rather than asking Timi to forward multiple messages.
-- **Timi authorizes creative and storefront choices for her work. Tim authorizes shared system architecture, access, and technical publishing.** Neither approval grants Miles or Timi GitHub write access.
-- Athena or Tim performs any GitHub updates through an authorized owner-side workflow, then provides a verified URL. Miles must not say a document has been updated until he verifies the new content at that URL.
-- Never include private customer information, payment/tax details, account credentials, unpublished sensitive creative assets, or private chat transcripts in this public repository.
+- **Official GitHub is read-only** for Timi, Miles, Jorden, and Jorden's AI. They never edit the authoritative repository or this public handoff.
+- Tim has approved a **separate private Ballard AI Studio inbox** for draft uploads. This exception does not grant access to modify official records. **The inbox and permissions are not yet verified, so do not attempt uploads there now.**
+- Once configured and tested, Timi may upload files to the inbox using her own account. Miles may submit directly only if his own connected tools support **inbox-only** writes; never use Tim's account or a write-capable alternative to bypass permission boundaries.
+- Until setup is complete, Miles prepares one concise private handoff for the shared ChatGPT Project (or a paste-ready message). Do not ask Timi to learn GitHub to keep the project moving.
+- Timi owns and approves creative and storefront decisions. Tim alone approves shared-system architecture, official GitHub updates, and technical publishing. Inbox uploads are **SUBMITTED — NOT APPROVED**.
+- Athena/Tim review and promote authorized work; Miles verifies the official link before saying something is published. No automatic publication, deployment, or extra costs.
+- Read [GitHub made simple](GITHUB-SHARING-FOR-TIMI-AND-MILES.md) before changing the workflow. Never expose private customer, tax/payment, credentials, or unapproved sensitive creative work in this **public** repository.
 
 **Sustainability is a possible future enhancement. It is not a launch criterion, survey question or sourcing blocker.**
