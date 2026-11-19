@@ -1,3 +1,7 @@
+## New operating rule for Miles (November 18)
+
+**[Miles: GitHub-only technical handoffs and creative-only questions for Timi](MILES-OPERATING-RULES.md).** Timi handles **designs**. Tim/Athena handle **all technical and operational issues**. Miles reads official documents, submits technical issues to the **private inbox** when his own permission is verified, and does not ask Timi to troubleshoot or relay technical problems. If blocked, he reports privately to Tim/Athena, clearly marked **NOT FILED**.
+
 # ☀️ Timi's Fourthwall Shop — Athena → Miles Handoff
 
 **For Timi & Miles | Prepared November 17, 2026**
