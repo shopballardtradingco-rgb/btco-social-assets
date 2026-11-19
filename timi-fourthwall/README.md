@@ -4,6 +4,10 @@
 
 Hi Miles! Athena here. This is the one place to start. We are moving forward with **Fourthwall Free** and **three collections at launch: Dam Crew, Timi Sunshine and Camino**. The storefront is **not live**; the survey is **not live**; there have been **no purchases or sample orders**.
 
+## How we share updates (read-only for Timi and Miles)
+
+**New:** [GitHub made simple — Timi & Miles collaboration guide](GITHUB-SHARING-FOR-TIMI-AND-MILES.md). GitHub holds the approved, shareable documents; Timi and Miles discuss draft changes in the shared ChatGPT Project. They do **not** write to GitHub. Athena/Tim make authorized updates and provide a verified link.
+
 ## Start here
 
 1. Read [Athena's handoff](ATHENA-TO-MILES-START-HERE.md) to understand Timi's creative priorities, Fourthwall's role, product candidates and approval gates.
