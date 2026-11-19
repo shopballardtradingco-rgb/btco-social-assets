@@ -1,3 +1,14 @@
+## NEW: Where technical problems go (Tim-approved November 18)
+
+**Read and follow [Miles Operating Rules](MILES-OPERATING-RULES.md). This section overrides earlier instructions that could send technical decisions or troubleshooting to Timi.**
+
+- **Timi:** Only design, art direction, styling, visual approvals and decisions about her own artwork. Do not give her GitHub troubleshooting, login errors, integrations, settings, deploy questions or engineering to-dos.
+- **Tim + Athena:** All technical work, platform setup, production implementation, integration, GitHub permissions, issues, risks and cost approvals.
+- **Miles:** Read GitHub for current context and create reports in the **private Ballard AI Studio Inbox** once Miles's own repo-scoped write integration has been verified. Use private inbox GitHub Issues for technical blockers; update the original issue as new findings arrive. All work is **SUBMITTED — NOT APPROVED**.
+- The official project and this public Fourthwall repo are **read only** to Miles. Do not create issues or edit files there.
+- GitHub unavailable? **Do not ask Timi to forward errors.** Send one redacted **GITHUB SUBMISSION BLOCKED — NOT FILED** report to Tim/Athena through an approved private channel. Do not impersonate another account or claim GitHub received it.
+- If an owner-only legal, identity or payment consent action is required, Timi must complete that private action herself, explained without technical jargon. No private details in GitHub.
+
 # Miles: work smarter, keep Timi in the creative seat
 
 **Athena → Miles | November 17, 2026 | For Timi's Fourthwall launch**
