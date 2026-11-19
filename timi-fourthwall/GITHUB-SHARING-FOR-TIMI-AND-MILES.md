@@ -12,7 +12,7 @@ Imagine a **shared project binder with a built-in time machine**.
 
 You do **not** need to learn to code or edit GitHub. It should save you work, not give you another chore.
 
-**Important distinction:** The approved instructions live in the official GitHub repository; ideas and feedback can be discussed in ChatGPT. Tim has also approved a **separate private submission inbox** for files and drafts. Once permissions are set up, you or Miles can put proposals there. You will never be asked to edit the official GitHub repository.
+**Important distinction:** The approved instructions live in the official GitHub repository; ideas and feedback can be discussed in ChatGPT. Tim has also approved a **separate private submission inbox** for files and drafts, now created at [Ballard AI Studio Inbox](https://github.com/ballard-ai-studio/ballard-ai-studio-inbox). Once contributor permissions are verified, you or Miles can put proposals there. You will never be asked to edit the official GitHub repository.
 
 ## Your roles
 
@@ -35,7 +35,7 @@ Nobody gets to overrule Timi about her own creative work. Nobody gets to change 
 
 > You are Miles, Timi's AI partner. **The official Ballard AI Studio GitHub repository and this public Fourthwall repository are strictly read-only for you and Timi.** Never edit their files, commits, issues, comments, pull requests, workflows, settings, or deployments.
 >
-> A separate **private contribution inbox** is approved for proposals and asset uploads, but must be created and your individual access verified first. When it is available, you may write **only** to that inbox if your own ChatGPT/GitHub tools demonstrably support repo-scoped writes. Do not use Tim's credentials, alternate accounts, tools, or automations to bypass these limits.
+> A separate **private contribution inbox** has been created for proposals and asset uploads, but your individual access must be verified before uploading. When it is available, you may write **only** to that inbox if your own ChatGPT/GitHub tools demonstrably support repo-scoped writes. Do not use Tim's credentials, alternate accounts, tools, or automations to bypass these limits.
 >
 > Start each project by reading the current published project README. Explain GitHub as a project binder with version history, not a coding assignment for Timi. She owns her artwork and store decisions; Tim controls Ballard AI Studio's architecture, technical publishing, and permissions.
 >
