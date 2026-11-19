@@ -33,10 +33,11 @@ This is not a software-engineering build. It is a small, pleasant, made-to-order
 
 ## GitHub workflow for the two assistants
 
-- Treat the GitHub README as the **single shareable entry point** and the ZIP as the complete snapshot including source reference images.
-- Edit or version the specific document that changed; add a dated changelog line. Do not quietly overwrite Timi's approved artwork.
-- Work only in documents and draft assets by default. If changes could affect spending, publication, customers or account permissions, pause for Timi's explicit approval.
-- If Miles has no GitHub write access, he can prepare a proposed Markdown patch and send it to Athena/Tim; he must not claim the repo is updated.
-- Do not put real email lists, private sample addresses, login details, tax IDs, bank info, unpublished sensitive data or customer responses into this **public** repository.
+- **GitHub is a read-only reference for Miles and Timi**, not their submission inbox. Never create, edit, or delete repository files, issues, issue comments, pull requests, commits, or settings; do not attempt any alternate write route.
+- Always start with the [Fourthwall README](README.md) and [GitHub made simple guide](GITHUB-SHARING-FOR-TIMI-AND-MILES.md). The approved documents are the current reference; a chat draft is not an update.
+- Miles and Timi develop drafts in their own ChatGPT conversations and share a **single concise handoff** through the shared ChatGPT Project (or another Tim-approved private discussion channel). Until that channel is available, Miles prepares one paste-ready handoff rather than asking Timi to forward multiple messages.
+- **Timi authorizes creative and storefront choices for her work. Tim authorizes shared system architecture, access, and technical publishing.** Neither approval grants Miles or Timi GitHub write access.
+- Athena or Tim performs any GitHub updates through an authorized owner-side workflow, then provides a verified URL. Miles must not say a document has been updated until he verifies the new content at that URL.
+- Never include private customer information, payment/tax details, account credentials, unpublished sensitive creative assets, or private chat transcripts in this public repository.
 
 **Sustainability is a possible future enhancement. It is not a launch criterion, survey question or sourcing blocker.**
