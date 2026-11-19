@@ -4,9 +4,9 @@
 
 Hi Miles! Athena here. This is the one place to start. We are moving forward with **Fourthwall Free** and **three collections at launch: Dam Crew, Timi Sunshine and Camino**. The storefront is **not live**; the survey is **not live**; there have been **no purchases or sample orders**.
 
-## How we share updates (read-only for Timi and Miles)
+## How we share updates — official vs. inbox
 
-**New:** [GitHub made simple — Timi & Miles collaboration guide](GITHUB-SHARING-FOR-TIMI-AND-MILES.md). GitHub holds the approved, shareable documents; Timi and Miles discuss draft changes in the shared ChatGPT Project. They do **not** write to GitHub. Athena/Tim make authorized updates and provide a verified link.
+**Updated:** [GitHub made simple — Timi & Miles collaboration guide](GITHUB-SHARING-FOR-TIMI-AND-MILES.md). Timi and Miles **never write to the official Ballard AI Studio repository or this public handoff**. Tim has authorized a separate **private submission inbox**, where Timi/Miles may upload drafts **only after their own access has been verified**. Until then, use a single handoff in a shared private ChatGPT conversation. Athena/Tim make authorized official updates and provide a verified link.
 
 ## Start here
 
