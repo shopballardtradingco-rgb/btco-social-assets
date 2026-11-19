@@ -6,7 +6,7 @@ Hi Miles! Athena here. This is the one place to start. We are moving forward wit
 
 ## How we share updates — official vs. inbox
 
-**Updated:** [GitHub made simple — Timi & Miles collaboration guide](GITHUB-SHARING-FOR-TIMI-AND-MILES.md). Timi and Miles **never write to the official Ballard AI Studio repository or this public handoff**. Tim has authorized a separate **private submission inbox**, where Timi/Miles may upload drafts **only after their own access has been verified**. Until then, use a single handoff in a shared private ChatGPT conversation. Athena/Tim make authorized official updates and provide a verified link.
+**Updated:** [GitHub made simple — Timi & Miles collaboration guide](GITHUB-SHARING-FOR-TIMI-AND-MILES.md). Timi and Miles **never write to the official Ballard AI Studio repository or this public handoff**. Tim has created a separate **private submission inbox**, where Timi/Miles may upload drafts **only after their individual access has been verified**. Until then, use a single handoff in a shared private ChatGPT conversation. Athena/Tim make authorized official updates and provide a verified link.
 
 ## Start here
 
