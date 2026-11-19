@@ -1,3 +1,7 @@
+## Updated routing rule — November 18, 2026
+
+**Timi creates and approves designs. Tim handles the technology.** Miles uses GitHub as the source for instructions and the **private submission inbox** as the destination for technical issues and draft submissions, but only when individual inbox write access is verified. **Never send technical errors, access problems or engineering requests to Timi** or ask her to relay them to Tim. Read [Miles Operating Rules](MILES-OPERATING-RULES.md). If GitHub submission is blocked, prepare one private report for Tim/Athena marked **GITHUB SUBMISSION BLOCKED — NOT FILED**, not a request for Timi to fix it.
+
 # GitHub sharing, explained simply — for Timi and Miles
 
 **Purpose:** Fewer messages to Tim, fewer lost decisions, and one reliable place to find the latest approved project information.
