@@ -35,7 +35,7 @@ This is not a software-engineering build. It is a small, pleasant, made-to-order
 
 - **Official GitHub is read-only** for Timi, Miles, Jorden, and Jorden's AI. They never edit the authoritative repository or this public handoff.
 - Tim has approved a **separate private Ballard AI Studio inbox** for draft uploads. This exception does not grant access to modify official records. **The inbox and permissions are not yet verified, so do not attempt uploads there now.**
-- Once configured and tested, Timi may upload files to the inbox using her own account. Miles may submit directly only if his own connected tools support **inbox-only** writes; never use Tim's account or a write-capable alternative to bypass permission boundaries.
+- The inbox exists, but contributor permissions are not yet verified. Once configured and tested, Timi may upload files to the inbox using her own account. Miles may submit directly only if his own connected tools support **inbox-only** writes; never use Tim's account or a write-capable alternative to bypass permission boundaries.
 - Until setup is complete, Miles prepares one concise private handoff for the shared ChatGPT Project (or a paste-ready message). Do not ask Timi to learn GitHub to keep the project moving.
 - Timi owns and approves creative and storefront decisions. Tim alone approves shared-system architecture, official GitHub updates, and technical publishing. Inbox uploads are **SUBMITTED — NOT APPROVED**.
 - Athena/Tim review and promote authorized work; Miles verifies the official link before saying something is published. No automatic publication, deployment, or extra costs.
